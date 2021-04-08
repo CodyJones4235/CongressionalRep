@@ -1,0 +1,28 @@
+header{
+    text-align: center;
+    font-size: 3em;
+}
+
+.party{
+    color: red;
+}
+
+img{
+    margin: 0rem;
+}
+
+.name {
+    margin: 0rem;
+}
+
+.Legislation {
+    margin: 1rem;
+}
+
+a:link{
+    color: rgb(94, 85, 172);
+}
+
+body{
+    background-color: rgb(196, 193, 193);
+}
